@@ -1,8 +1,21 @@
-<h1 align="center">Hi 👋, I'm Mohd Sahil</h1>
+<h1 align="center">Hi 👋, I'm Mohd Sahil</h1 
+                                         
+
+
+<img align="right" src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
+
+---
+<!-- Typing SVG              -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&duration=5001&align=center&pause=1100&color=0000FF&center=true&width=1035&lines=React+Native+Developer;Web+Developer;Android+Developer;Ai+Enthusiast)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate Frontend Developer and AI Enthusiast</h3>
 
+---
+
+### Profile Views :
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=radcoder&label=Profile%20views&color=0e75b6&style=flat" alt="radcoder" />
+   <img src="https://profile-counter.glitch.me/radecoder/count.svg" />
 </p>
 
 ---
@@ -24,12 +37,18 @@
 
 ---
 
+<!-- <br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radecoder" alt="radeoder" /></a> 
+</p> -->
+
+---
 ## 📫 Connect with me  
 <p align="center">
   <a href="https://www.linkedin.com/in/radecoder"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://twitter.com/radecoding"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="mailto:mohdsahildw@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</p> 
 
 ---
 
@@ -44,24 +63,27 @@
 
 ## 🛠️ Languages and Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,postman,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,postman,mysql,git,github" />
 </p>
 
----
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radcoder&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radcoder&theme=dark" alt="GitHub Streak" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radecoder&show_icons=true&locale=en&layout=compact" alt="radecoder" />
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radecoder&show_icons=true&locale=en" alt="radecoder" /></p>
 
----
 
-## 📈 GitHub Activity  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radcoder&theme=react-dark" />
+<!--Streak-->
+<p >
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=radecoder&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&card_width=1100"/>
+  </a>
 </p>
+<br/>
+
+[![Mohd Sahil github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=radecoder&bg_color=ffffff&color=080808&line=0a81ff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+<br/>
 
 ---
 
