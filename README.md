@@ -1,26 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mohd Sahil</h1 
-                                         
-
-
-<img align="right" src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
-
----
 <!-- Typing SVG              -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&duration=5001&align=center&pause=1100&color=0000FF&center=true&width=1035&lines=React+Native+Developer;Web+Developer;Android+Developer;Ai+Enthusiast)](https://git.io/typing-svg)
+<h2> Hi, I'm Mohd Sahil! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="http://www.unb.br">Dr. A.P.J. Abdul Kalam Technical University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<h3 align="center">A passionate Frontend Developer and AI Enthusiast</h3>
+[![Twitter: Mohd Sahil](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter)](https://twitter.com/radecoding)
+[![Linkedin: Mohd Sahil](https://img.shields.io/badge/-MohdSahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radecoder/)](https://www.linkedin.com/in/radecoder/)
+[![GitHub Mohd Sahil](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/radecoder)
 
----
 
-### Profile Views :
-<p align="center">
-   <img src="https://profile-counter.glitch.me/radecoder/count.svg" />
-</p>
-
----
-
-## 🚀 About Me  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">🚀 A little more about me...  
+<!--## 🚀 About Me  -->
 - 🔭 I’m currently working on **React Native & Web Development Projects**  
 - 🌱 I’m learning **Advanced Frontend Technologies**    
 - 📫 How to reach me: **mohdsahildw@gmail.com**  
@@ -36,6 +28,58 @@
 ✔ **Database Management** – MySQL, Workbench  
 
 ---
+
+## 🛠️ Languages and Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,postman,mysql,git,github" />
+</p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radecoder&show_icons=true&locale=en&layout=compact" alt="radecoder" />
+</p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radecoder&show_icons=true&locale=en" alt="radecoder" /></p> -->
+
+
+
+<!--```javascript
+const sahil = {
+  name: "Mohd Sahil",
+  role: "Frontend Developer | React Native Enthusiast",
+  pronouns: "he/him",
+  skills: {
+    frontend: ["React Native", "JavaScript", "HTML", "CSS", "Tailwind CSS"],
+    backend: ["Java", "Spring Boot"],
+    databases: ["MySQL"],
+    tools: ["Postman", "Expo", "Git", "MySQL Workbench"]
+  },
+  projects: ["School Management App", "Breast Cancer Prediction System"],
+  currentlyLearning: ["Tailwind CSS", "React Native Components"],
+  funFact: "Loves turning UI ideas into smooth mobile experiences ⚡",
+  challenge: "Working on real-world projects and leveling up daily!"
+} -->
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
+
+
+ <!-- <h1 align="center">Hi 👋, I'm Mohd Sahil</h1 -->
+                                         
+
+
+ <!--<img align="right" src="https://github.com/radecoder/github-stats-transparent/blob/output/generated/overview.svg"  width="400">-->
+<!--        <h3 align="center">A passionate Frontend Developer and AI Enthusiast</h3>     -->
+
+
+---
+
+### Profile Views :
+<p align="center">
+   <img src="https://profile-counter.glitch.me/radecoder/count.svg" />
+</p>
+
 
 <!-- <br>
 
@@ -61,17 +105,6 @@
 
 ---
 
-## 🛠️ Languages and Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,postman,mysql,git,github" />
-</p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radecoder&show_icons=true&locale=en&layout=compact" alt="radecoder" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radecoder&show_icons=true&locale=en" alt="radecoder" /></p>
-
-
 <!--Streak-->
 <p >
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -87,4 +120,4 @@
 
 ---
 
-⭐ **Follow me for more projects!** 🚀
+⭐ ** From[@RadeCoder](https://github.com/radecoder) for more projects!** 🚀
