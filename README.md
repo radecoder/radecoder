@@ -22,7 +22,7 @@
 
 ## 💻 Technical Skills  
 
-✔ **Frontend Development** – React Native, JavaScript, HTML, CSS  
+✔ **Frontend Development** – React, JavaScript, HTML, CSS  
 ✔ **Mobile App Development** – React Native, Expo  
 ✔ **API Integration & Testing** – Postman, REST APIs  
 ✔ **Database Management** – MySQL, Workbench  
