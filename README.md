@@ -107,12 +107,13 @@ const sahil = {
 ---
 
 <!--Streak-->
-<p >
+<! <p >
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=radecoder&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&card_width=1100"/>
+    <img title="Streak Stats 🔥" alt="Mohd Sahil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=radecoder&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&card_width=1100"/>
   </a>
 </p>
-<br/>
+
+---
 
 [![Mohd Sahil github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=radecoder&bg_color=ffffff&color=080808&line=0a81ff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
