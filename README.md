@@ -76,9 +76,10 @@ const sahil = {
 
 ---
 
-### Profile Views :
+# 👀 Profile Views
+
 <p align="center">
-   <img src="https://profile-counter.glitch.me/radecoder/count.svg" />
+<img src="https://komarev.com/ghpvc/?username=syedali-110&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 
