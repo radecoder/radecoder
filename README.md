@@ -36,8 +36,8 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radecoder&show_icons=true&locale=en&layout=compact" alt="radecoder" />
-</p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radecoder&show_icons=true&locale=en&layout=compact" alt="radecoder" />
+</p> -->
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radecoder&show_icons=true&locale=en" alt="radecoder" /></p> -->
 
 
