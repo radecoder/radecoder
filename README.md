@@ -20,19 +20,18 @@
 
 ---
 
-## 💻 Technical Skills  
+## 💻 Technical Skills
 
-💻 Technical Skills
+✔ **Frontend Development** – HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js  
+✔ **Mobile App Development** – React Native, Expo  
+✔ **Backend Development** – Java, Spring, Python, Flask  
+✔ **Programming Languages** – C, C++, Java, Python, JavaScript  
+✔ **API Integration & Testing** – REST APIs, Postman  
+✔ **Database Management** – MySQL, MySQL Workbench  
+✔ **Cloud & DevOps Tools** – AWS, Azure, Git, GitHub  
+✔ **Artificial Intelligence & Machine Learning** – Python, scikit-learn, Pandas, NumPy, Jupyter Notebook  
+✔ **UI/UX & Design** – Figma
 
-✔ Frontend Development – HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js
-✔ Mobile App Development – React Native, Expo
-✔ Backend Development – Java, Spring, Python, Flask
-✔ Programming Languages – C, C++, Java, Python, JavaScript
-✔ API Integration & Testing – REST APIs, Postman
-✔ Database Management – MySQL, MySQL Workbench
-✔ Cloud & DevOps Tools – AWS, Azure, Git, GitHub
-✔ Artificial Intelligence & Machine Learning – Python, scikit-learn, Pandas, NumPy, Jupyter Notebook
-✔ UI/UX & Design – Figma
 
 ---
 
