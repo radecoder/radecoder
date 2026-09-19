@@ -1,6 +1,6 @@
 <!-- Typing SVG              -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&duration=5001&align=center&pause=1100&color=0096FF&center=true&width=1035&lines=Reactjs++Developer;Web+Developer;Frontend+Developer;Ai+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&duration=3500&pause=1000&color=0096FF&center=true&vCenter=true&width=1000&lines=Associate+Software+Engineer;Full+Stack+Developer;React+%26+React+Native+Developer;Java+%26+Spring+Boot+Developer;Python+Developer;Building+Scalable+Web+%26+Mobile+Applications)](https://git.io/typing-svg)
 <h2> Hi, My name is Mohd Sahil! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align="right" src="./assets/developer.png" width="380">
 <p><em>Software Engineer at <a href="http://www.unb.br">Dr. A.P.J. Abdul Kalam Technical University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -22,15 +22,16 @@
 
 ## 💻 Technical Skills
 
-✔ **Frontend Development** – HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js  
-✔ **Mobile App Development** – React Native, Expo  
-✔ **Backend Development** – Java, Spring, Python, Flask  
-✔ **Programming Languages** – C, C++, Java, Python, JavaScript  
-✔ **API Integration & Testing** – REST APIs, Postman  
-✔ **Database Management** – MySQL, MySQL Workbench  
-✔ **Cloud & DevOps Tools** – AWS, Azure, Git, GitHub  
-✔ **Artificial Intelligence & Machine Learning** – Python, scikit-learn, Pandas, NumPy, Jupyter Notebook  
-✔ **UI/UX & Design** – Figma
+
+- **Frontend:** HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, React.js
+- **Mobile Development:** React Native, Expo
+- **Backend:** Java, Spring Boot, Python, Flask
+- **Programming Languages:** C, C++, Java, Python, JavaScript
+- **API & Development Tools:** REST APIs, Axios, Postman
+- **Databases:** MySQL, MySQL Workbench
+- **Cloud & DevOps:** AWS, Azure, Git, GitHub
+- **AI & Machine Learning:** Python, NumPy, Pandas, scikit-learn, Jupyter Notebook
+- **UI/UX & Design:** Figma
 
 
 ---
