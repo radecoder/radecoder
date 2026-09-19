@@ -3,7 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&duration=3500&pause=1000&color=0096FF&center=true&vCenter=true&width=1000&lines=Associate+Software+Engineer;Full+Stack+Developer;React+%26+React+Native+Developer;Java+%26+Spring+Boot+Developer;Python+Developer;Building+Scalable+Web+%26+Mobile+Applications)](https://git.io/typing-svg)
 <h2> Hi, My name is Mohd Sahil! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align="right" src="./assets/developer.png" width="380">
-<p><em>Software Engineer at <a href="http://www.unb.br">Dr. A.P.J. Abdul Kalam Technical University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Associate Software Engineer at <a href="http://www.jasminefiore.com">JasmineFiore Pvt. Ltd.</a>
+</br>
+B.Tech in Computer Science & Engineering from
+Meerut Institute of Engineering & Technology (MIET), AKTU <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Mohd Sahil](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter)](https://twitter.com/radecoding)
@@ -13,10 +16,11 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">🚀 A little more about me...  
 <!--## 🚀 About Me  -->
-- 🔭 I’m currently working on **React Native & Web Development Projects**  
-- 🌱 I’m learning **Advanced Frontend Technologies**    
-- 📫 How to reach me: **mohdsahildw@gmail.com**  
-- ⚡ Fun fact: **I love building interactive web experiences!**  
+- 🔭 Currently working as an **Associate Software Engineer**
+- 💻 Building **Web & Mobile Applications with React, React Native, Java, Spring Boot & Python**
+- 🌱 Currently exploring **Cloud Technologies & AI/ML**
+- 📫 Reach me at **mohdsahildw@gmail.com**
+- ⚡ Fun fact: **I enjoy building software that solves real-world problems**
 
 ---
 
